@@ -75,6 +75,7 @@ The skill then runs: open the campaign page (`https://www.doubao.com/pc/agent-ex
 
 ## Changelog
 
+- 2026-11-24 (v3): added the MIT license (LICENSE file) and switched the license section to MIT.
 - 2026-11-24 (v2): default behaviour changed to a full sweep — check in, claim every "立即领", complete every "去完成", claim each credit and verify totals; added a "Default strategy" section and a stop-after-two-failures rule; no per-item prompting required.
 - 2026-11-24 (v1): added the full "complete tasks and claim credits" flow (Ctrl+click entry, prompt rewriting, completion signals, claiming and credit re-verification).
 - 2026-11-23: initial version with check-in and credit verification.
@@ -83,3 +84,7 @@ The skill then runs: open the campaign page (`https://www.doubao.com/pc/agent-ex
 
 - GitHub: https://github.com/lichong94/doubao-daily-checkin
 - Gitee: https://gitee.com/lichong2/doubao-daily-checkin
+
+## License
+
+Released under the MIT License. See [LICENSE](LICENSE).
